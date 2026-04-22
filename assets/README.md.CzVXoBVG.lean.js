@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as e,ae as t}from"./chunks/framework.RRduUuAx.js";const u=JSON.parse('{"title":"HuRui 的知识库","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function r(l,s,o,h,d,p){return i(),e("div",null,[...s[0]||(s[0]=[t("",10)])])}const k=a(n,[["render",r]]);export{u as __pageData,k as default};
